@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently working on fullstack mobile web development, Blockchain and AWS Devops.
   
-- 🔭 I’m currently learning AI Crypto Bot Development.
+- 🔭 I’m also working on AI & blockchain based Crypto Bot Development.
 
 - 👯 I’m looking to collaborate on any type of Projects.
 
