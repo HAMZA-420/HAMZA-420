@@ -11,9 +11,9 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m currently working on fullstack mobile web development, Blockchain and AWS Devops.
+- 🌱 I’m currently working on fullstack mobile web development with AI, GPT, LLM & langchain.
   
-- 🔭 I’m also working on AI & blockchain based Crypto Bot Development.
+- 🔭 I’m also working on AI Bot Development.
 
 - 👯 I’m looking to collaborate on any type of Projects.
 
