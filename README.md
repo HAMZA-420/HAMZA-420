@@ -1,5 +1,7 @@
 <h1> Hello Fellow Developers! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <p align="center"></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamza-420&label=Profile%20views&color=0e75b6&style=flat" alt="Hamza-420" /> </p>
+
 
 <div size="20px"> 
   Hi! My name is Hamza. Thank you for taking the time to view my GitHub Profile 😊
