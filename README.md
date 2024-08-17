@@ -40,9 +40,8 @@
 | ![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HAMZA-420&show_icons=true&theme=tokyonight) | ![Hamza GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HAMZA-420&theme=tokyonight) |
 | --- | --- |
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamza-420&show_icons=true&locale=en&layout=compact" alt="hamza-420" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vin-jex&" alt="vin-jex" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamza-420&show_icons=true&locale=en" alt="hamza-420" /></p>
 
 
 <br>
