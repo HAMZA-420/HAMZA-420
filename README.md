@@ -40,10 +40,6 @@
 | ![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HAMZA-420&show_icons=true&theme=tokyonight) | ![Hamza GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HAMZA-420&theme=tokyonight) |
 | --- | --- |
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-420&" alt="vin-jex" /></p>
-
-
-
 <br>
 
 <h2> Experience and Achievements <img src="https://media0.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif" width="32px"></h2>
