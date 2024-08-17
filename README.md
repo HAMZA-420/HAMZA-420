@@ -1,7 +1,5 @@
 <h1> Hello Fellow Developers! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <p align="center"></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamza-420&label=Profile%20views&color=0e75b6&style=flat" alt="Hamza-420" /> </p>
-
 
 <div size="20px"> 
   Hi! My name is Hamza. Thank you for taking the time to view my GitHub Profile 😊
@@ -41,6 +39,11 @@
 
 | ![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HAMZA-420&show_icons=true&theme=tokyonight) | ![Hamza GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HAMZA-420&theme=tokyonight) |
 | --- | --- |
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamza-420&show_icons=true&locale=en&layout=compact" alt="hamza-420" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamza-420&show_icons=true&locale=en" alt="hamza-420" /></p>
+
 
 <br>
 
