@@ -37,8 +37,7 @@
 <br>
 <br>
 
-| ![Hamza GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HAMZA-420&theme=tokyonight) |
-| --- | --- |
+ ![Hamza GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HAMZA-420&theme=tokyonight)
 
 <br>
 
