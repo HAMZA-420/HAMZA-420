@@ -43,7 +43,7 @@
 
 <h2> Experience and Achievements <img src="https://media0.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif" width="32px"></h2>
 
-- 🌟 70+ large projects with 5-star ratings on Fiverr.
+- 🌟 100+ large projects with 5-star ratings on Fiverr/others.
 - 💼 Experience working with startups and in the industry.
 - 🚀 Extensive experience in mobile and web app development, AI development, and marketing.
 - 🎯 Specialized in enhancing long sequence text processing in Transformer-based LLMs.
