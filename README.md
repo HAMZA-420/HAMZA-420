@@ -5,6 +5,9 @@
   <br/>
   <b>Agentic AI Engineer</b> • <b>Full-Stack Cloud Engineer (Serverless SaaS)</b> • <b>MERN</b> • <b>Autonomy / Robotics (PhD Ongoing, NUST)</b>
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=900&lines=Serverless+SaaS+%7C+Multi-Tenant+Architecture+%7C+Production+Engineering;LLMs%3A+RAG+%7C+Agents+%7C+LangChain+%7C+Vector+DBs;AI+%26+Robotics+%7C+Autonomy+%7C+Applied+ML+%7C+Systems+Thinking" />
+</p>
 
 <p align="center">
   I build high-impact <b>web + mobile products</b>, <b>multi-tenant SaaS</b>, and <b>agentic AI systems</b>—from architecture to production deployments.
@@ -75,11 +78,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HAMZA-420&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HAMZA-420&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAMZA-420&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
