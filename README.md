@@ -1,135 +1,143 @@
-<h1 align="center">
-  Hi, I'm Muhammad Hamza Khan 👋
-</h1>
-
-<h3 align="center">
-  Full-Stack Cloud & AI Developer (Serverless SaaS) | MERN + LLMs (RAG, LangChain, Agents) | Available(Remote)
-</h3>
+<h1 align="center">Muhammad Hamza Khan 👋</h1>
 
 <p align="center">
-  I build production-grade web & mobile apps, multi-tenant SaaS platforms, and AI/LLM products (Agentic AI, RAG, PDF/CSV bots, automation).
+  <b>Full-Stack Cloud & AI Engineer</b> • <b>Serverless SaaS</b> • <b>MERN</b> • <b>LLMs (RAG / Agents / LangChain)</b> • <b>AI + Robotics (PhD Ongoing, NUST)</b>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hamza-khan22/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
-  <a href="https://www.github.com/HAMZA-420" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github" /></a>
-  <a href="https://x.com/crypto__vr" target="_blank"><img src="https://img.shields.io/badge/X(Twitter)-Follow-111111?logo=x" /></a>
+  Building production-grade <b>web & mobile apps</b>, <b>multi-tenant platforms</b>, and <b>Agentic AI systems</b> that ship fast and scale.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hamza-khan22/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/HAMZA-420" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-111111?logo=github&logoColor=white" /></a>
+  <a href="https://x.com/crypto__vr" target="_blank"><img src="https://img.shields.io/badge/X-Follow-111111?logo=x&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=HAMZA-420&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=900&lines=Serverless+SaaS+%7C+Multi-Tenant+Architecture+%7C+Production+Engineering;LLMs%3A+RAG+%7C+Agents+%7C+LangChain+%7C+Vector+DBs;AI+%26+Robotics+%7C+Autonomy+%7C+Applied+ML+%7C+Systems+Thinking" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 Executive Summary
 
-<img width="42%" align="right" alt="coding" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="40%" align="right" alt="banner" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔥 Full-Stack **Cloud & AI Developer** focused on scalable products and real-world delivery  
-- 🤖 Building with **LLMs / GPT / Agents / RAG / LangChain / Vector DBs**  
-- 📱 Strong experience in **Mobile & Web Apps** (React, Next.js, React Native)  
-- ☁️ Cloud + DevOps: **AWS, Docker, CI/CD, Serverless**, production deployments  
-- 🧠 Interests: **Agentic AI**, automation, applied ML, product engineering  
-- 🤝 Open to collaborations, partnerships, and high-impact product work  
-- 💬 Ask me about: **MERN, AI Agents, RAG, LLM apps, SaaS architecture, APIs, DevOps**
+I’m a **Full-Stack Cloud & AI Engineer** specializing in **modern product engineering**: from **system design** to **deployment**, with strong depth in **LLM applications (RAG, Agents, LangChain)** and **serverless multi-tenant SaaS**.
+
+- ⚡ **PhD (Ongoing)** — **AI & Robotics / Autonomy** at **NUST**
+- 🚀 Built and shipped **multi-tenant products**, **LLM platforms**, and **mobile-first apps**
+- 🧩 Strong in **architecture, scale, reliability**, and **end-to-end ownership**
+- ✅ Available for **remote roles**, **product partnerships**, and **high-impact builds**
 
 ---
 
 ## 🎓 Education
 
 - 🎓 **BS Software Engineering** — COMSATS (Islamabad)  
-- 🎓 **MS Software Engineering** (AI & Software Development specialization) — NUST (Pakistan)
+- 🎓 **MS Software Engineering (AI & Software Development Specialization)** — NUST (Pakistan)  
+- 🧪 **PhD (Ongoing)** — **AI & Robotics / Autonomous Systems (NUST)**
 
 ---
 
-## 🧩 What I Build (SEO Keywords)
+## 🧩 What I Build (SEO / Keyword-Rich)
 
-✅ Full Stack Developer • MERN Stack • Node.js • React • Next.js • React Native  
-✅ Multi-Tenant SaaS • Serverless Architectures • AWS • CI/CD • Docker  
-✅ Generative AI • LLM Applications • Agentic AI • LangChain • RAG Pipelines  
-✅ Vector Databases (Pinecone / similar) • PDF/CSV AI Bots • Automation
+✅ Full Stack Developer • MERN Stack • Node.js • React • Next.js • React Native • TypeScript  
+✅ Serverless SaaS • Multi-Tenant Architecture • Microservices • REST APIs • MongoDB • SQL  
+✅ Generative AI • LLM Apps • RAG Pipelines • LangChain • AI Agents • Vector Databases  
+✅ DevOps • AWS • Docker • CI/CD • Production Deployments • Performance & Reliability  
 
 ---
 
-## 🛠 Tech Stack
+## 🏗️ Flagship Products & Systems
 
-### Frontend
-- React.js, Next.js, React Native, TypeScript, JavaScript
-- UI Systems: MUI, responsive design, component-driven architecture
+### 🟦 Signfeld — Digital Contracts / Signing + Workflow Platform
+- Designed and built **secure signing workflows** with modern product UX
+- Strong focus on **scalable backend**, **audit trails**, and **document-centric automation**
+- Built for real-world use: **roles, permissions, templates, pipelines**, and integrations
 
-### Backend
-- Node.js, Express.js, REST APIs, Microservices patterns
-- MongoDB, SQL, Mongoose, schema design, auth & security
+### ⛽ Fuel Delivery App — End-to-End Logistics + Payments System
+- Built a **fuel delivery** ecosystem: customer app + operations flows
+- Backend designed for **bookings, routes, invoicing, role-based access**, and scale
+- Emphasis on **reliability**, **secure APIs**, and **production-ready deployments**
 
-### AI / LLM
-- GPT / LLM integrations, LangChain, RAG pipelines
-- Vector DB workflows (e.g., Pinecone), PDF/CSV knowledge bots
-- Applied deep learning (Keras, OpenCV), ML pipelines
+### 🟨 Pitch Deck Screening Platform — AI + Workflow Product
+- Built a platform to **screen, manage, and evaluate pitch decks**
+- Includes **scoring criteria**, dashboards, pipelines, and automation
 
-### DevOps / Cloud
-- AWS, Docker, CI/CD, deployments, monitoring-ready setups
+---
+
+## 🤖 AI / LLM Engineering Focus
+
+- **RAG systems** for PDFs, websites, CSVs (retrieval + grounding + evaluation)
+- **Agentic workflows**: tool-use, routing, orchestration, memory patterns
+- **Long-context / long-sequence** optimization ideas (Infini-Attention-style approaches)
+- **Vector DB pipelines** (e.g., Pinecone-like workflows), embeddings, chunking strategies
+
+---
+
+## 🛠 Tech Stack (Modern & Production)
+
+**Frontend**
+- React.js • Next.js • React Native • TypeScript • MUI / component systems • responsive UI
+
+**Backend**
+- Node.js • Express.js • REST APIs • MongoDB • SQL • Mongoose • Auth & RBAC • Payments-ready systems
+
+**AI / ML**
+- LLM integrations • LangChain • RAG • Vector DBs • Keras • OpenCV • PyTorch workflows
+
+**Cloud / DevOps**
+- AWS • Docker • CI/CD • Serverless deployments • monitoring-ready architecture
 
 ---
 
 ## 🧰 Skills (Quick Icons)
 
-<a href="https://github.com/HAMZA-420?tab=repositories&q=&type=&language=python&sort="><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg"></a>
-<a href="https://github.com/HAMZA-420?tab=repositories&q=&type=&language=reactjs&sort="><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg"></a>
-<a href="https://github.com/HAMZA-420?tab=repositories&q=&type=&language=javascript&sort="><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"></a>
-<a href="https://github.com/HAMZA-420?tab=repositories&q=&type=&language=css&sort="><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg"></a>
-<a href="https://github.com/HAMZA-420?tab=repositories&q=&type=&language=html&sort="><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg"></a>
-<a href="https://github.com/HAMZA-420?tab=repositories&q=&type=&language=c&sort="><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg"></a>
-<a href="https://github.com/HAMZA-420?tab=repositories&q=&type=&language=cpp&sort="><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg"></a>
-<a href="https://github.com/HAMZA-420?tab=repositories&q=&type=&language=sqlite&sort="><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg"></a>
-<a href="https://github.com/HAMZA-420?tab=repositories&q=&type=&language=pytorch&sort="><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg"></a>
+<a href="https://github.com/HAMZA-420?tab=repositories&q=&type=&language=python&sort="><img width="34px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg"></a>
+<a href="https://github.com/HAMZA-420?tab=repositories&q=&type=&language=reactjs&sort="><img width="34px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg"></a>
+<a href="https://github.com/HAMZA-420?tab=repositories&q=&type=&language=javascript&sort="><img width="34px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"></a>
+<a href="https://github.com/HAMZA-420?tab=repositories&q=&type=&language=typescript&sort="><img width="34px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg"></a>
+<a href="https://github.com/HAMZA-420?tab=repositories&q=&type=&language=html&sort="><img width="34px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg"></a>
+<a href="https://github.com/HAMZA-420?tab=repositories&q=&type=&language=css&sort="><img width="34px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg"></a>
+<a href="https://github.com/HAMZA-420?tab=repositories&q=&type=&language=mongodb&sort="><img width="34px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg"></a>
+<a href="https://github.com/HAMZA-420?tab=repositories&q=&type=&language=sqlite&sort="><img width="34px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg"></a>
+<a href="https://github.com/HAMZA-420?tab=repositories&q=&type=&language=docker&sort="><img width="34px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg"></a>
+<a href="https://github.com/HAMZA-420?tab=repositories&q=&type=&language=aws&sort="><img width="34px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg"></a>
 
 ---
 
-## 💼 Experience & Highlights
+## 📌 Career Proof (Credibility)
 
-- ⭐ Delivered **70+ to 100+ large projects** with **5-star ratings** (Fiverr & clients)  
-- 🏗 Built and shipped **multi-tenant product platforms** with real users  
-- 🧠 Specialized in **LLM app engineering**: RAG, agents, long-context workflows  
-- 🚀 Strong end-to-end ownership: planning → architecture → development → deployment
-
----
-
-## 🚀 Featured Projects (Selected)
-
-### 🔹 Pitch Deck Screening Platform (Product)
-- Built a platform to **analyze, manage, and screen pitch decks**
-- Focus on structured workflows, scoring criteria, and automation  
-- Includes dashboard, pipelines, and admin experience
-
-### 🔹 Real-Time Facial Emotion Detection (CNN + OpenCV)
-- Real-time facial emotion detection system using **CNN**
-- Implemented in **Python**, **Keras**, and **OpenCV**
-
-### 🔹 Long-Sequence Text Processing Enhancement
-- Worked on improving transformer long-context workflows using:
-  - **Infini-Attention** ideas
-  - **LangChain**
-  - **Vector DB (e.g., Pinecone)**
-
-### 🔹 AI Bots for PDFs & CSVs
-- Built bots that can ingest documents and answer questions using:
-  - Retrieval pipelines (RAG)
-  - Embeddings + vector search
-  - Tool-based workflows
+- ⭐ Delivered **70+ to 100+ large projects** with **5-star ratings** (Fiverr & direct clients)  
+- 🧠 Strong depth in **system design**, **scalability**, and **production delivery**
+- 🚀 Comfortable owning: **idea → architecture → implementation → deployment**
 
 ---
 
-## 🤝 Collaborate / Hire
+## 🔬 Selected Research / Engineering Projects
+
+- **Real-Time Facial Emotion Detection** (CNN) — Python • Keras • OpenCV  
+- **Long-Sequence Text Processing Enhancement** — Infini-Attention ideas • LangChain • Vector DB  
+- **AI Bots for PDFs & CSVs** — RAG pipelines • vector search • tool-based orchestration
+
+---
+
+## 🤝 Work With Me (Remote / Collaboration)
 
 If you want help with:
-- building a **SaaS product**
-- shipping a **mobile + web app**
-- implementing **LLM features (RAG, Agents, LangChain)**
-- improving scalability, backend performance, or cloud deployment
+- Building a **modern SaaS product** (multi-tenant, secure, scalable)
+- Shipping **web + mobile** apps (React / React Native)
+- Implementing **LLM features** (RAG, Agents, LangChain, vector DB)
+- Upgrading **architecture, performance, DevOps, deployments**
 
-📩 Reach out on LinkedIn:
-➡️ https://www.linkedin.com/in/muhammad-hamza-k-46940a175
+📩 LinkedIn: https://www.linkedin.com/in/hamza-khan22/
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HAMZA-420&theme=tokyonight" alt="GitHub Streak" />
@@ -145,7 +153,5 @@ If you want help with:
 
 ---
 
-### ⚡ Tagline
-**Architecting & Engineering Next-Gen Agentic AI Systems ⚡**
-
-Thanks for visiting — let's build something impactful.
+### ⚡ Signature
+**Architecting & Engineering Next-Gen Agentic AI Systems • AI + Robotics • Autonomous Products ⚡**
