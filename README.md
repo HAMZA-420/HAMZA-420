@@ -29,7 +29,6 @@
       <h3>⚡ Snapshot</h3>
       <ul>
         <li><b>Full-Stack Cloud & AI Engineer</b> shipping production systems end-to-end</li>
-        <li><b>PhD (Ongoing) — AI & Robotics / Autonomous Systems</b> at <b>NUST</b></li>
         <li>Strong in <b>Architecture</b>, <b>Scale</b>, <b>Security</b>, <b>Delivery</b>, and <b>Product Engineering</b></li>
         <li>Available for <b>remote</b> roles, partnerships, and high-impact builds</li>
       </ul>
@@ -44,7 +43,6 @@
 
 - **BS Software Engineering** — COMSATS (Islamabad)  
 - **MS Software Engineering (AI & Software Development Specialization)** — NUST (Pakistan)  
-- **PhD (Ongoing)** — **AI & Robotics / Autonomous Systems** — NUST  
 
 <h3>🚀 Products / Projects</h3>
 
