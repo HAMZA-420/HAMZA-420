@@ -1,4 +1,4 @@
-<h1 align="center">Muhammad Hamza Khan ⚡️⚡️⚡️⚡️⚡️⚡️</h1>
+<h1 align="center">Muhammad Hamza Khan ⚡️</h1>
 
 <p align="center">
   <b>Founder & CEO @ Devzona.com</b> • <b>Co-Founder & Lead Backend Developer @ Evolvion.io</b>
