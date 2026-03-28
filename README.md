@@ -3,7 +3,7 @@
 <p align="center">
   <b>Founder & CEO @ Devzona.com</b> • <b>Co-Founder & Lead Backend Developer @ Evolvion.io</b>
   <br/>
-  <b>Agentic AI Engineer</b> • <b>Full-Stack Cloud Engineer (Serverless SaaS)</b> • <b>MERN</b> • <b>Autonomy / Robotics (PhD Ongoing, NUST)</b>
+  <b>Agentic AI Engineer</b> • <b>Full-Stack Cloud Engineer (Serverless SaaS)</b> • <b>MERN</b> • <b>Agentic / AI </b>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=900&lines=Serverless+SaaS+%7C+Multi-Tenant+Architecture+%7C+Production+Engineering;LLMs%3A+RAG+%7C+Agents+%7C+LangChain+%7C+Vector+DBs;AI+%26+Robotics+%7C+Autonomy+%7C+Applied+ML+%7C+Systems+Thinking" />
