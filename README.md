@@ -6,25 +6,21 @@
 
 <h3>6+ Years Engineering Experience · Research to Production</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=650&color=22D3EE&center=true&vCenter=true&width=950&lines=Agentic+AI+%E2%80%A2+Multi-Agent+Systems+%E2%80%A2+Autonomous+Intelligence;Vision-Language+Systems+%E2%80%A2+Robotics+%E2%80%A2+Applied+AI+Research;Research+%E2%86%92+Architecture+%E2%86%92+Production+%E2%86%92+Evaluation" alt="Research focus animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=950&lines=Agentic+AI+%E2%80%A2+Multi-Agent+Systems+%E2%80%A2+Autonomous+Intelligence;Vision-Language+Systems+%E2%80%A2+Robotics+%E2%80%A2+Applied+AI+Research;Research+%E2%86%92+Architecture+%E2%86%92+Production+%E2%86%92+Evaluation" alt="Research focus animation" />
+
+<br/>
+
+<a href="https://seecs.nust.edu.pk/"><img src="https://img.shields.io/badge/PhD-AI%20%26%20Autonomous%20Systems-7C3AED?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.devzona.com/"><img src="https://img.shields.io/badge/Founder%20%26%20CEO-DEVZONA-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://evolvion.io/"><img src="https://img.shields.io/badge/Co--Founder-Evolvion.io-1F6FEB?style=for-the-badge&logoColor=white" /></a>
 
 <br/><br/>
 
-<!-- MODERN 3D ROLE + ACTION BUTTONS (custom SVG assets) -->
-<a href="https://seecs.nust.edu.pk/"><img height="52" src="./assets/profile-buttons/phd.svg" alt="PhD Researcher — AI & Autonomous Systems" /></a>
-<a href="https://www.devzona.com/"><img height="52" src="./assets/profile-buttons/devzona.svg" alt="Founder & CEO — DEVZONA" /></a>
-<a href="https://evolvion.io/"><img height="52" src="./assets/profile-buttons/evolvion.svg" alt="Co-Founder — Evolvion.io" /></a>
-
-<br/><br/>
-
-<a href="mailto:hamza@devzona.com"><img height="52" src="./assets/profile-buttons/email.svg" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/hamza-khan22/"><img height="52" src="./assets/profile-buttons/linkedin.svg" alt="LinkedIn" /></a>
-<a href="https://github.com/HAMZA-420"><img height="52" src="./assets/profile-buttons/github.svg" alt="GitHub" /></a>
-<a href="https://www.devzona.com/portfolio"><img height="52" src="./assets/profile-buttons/portfolio.svg" alt="Portfolio" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=HAMZA-420&label=PROFILE+VIEWS&color=4F46E5&style=for-the-badge" />
+<a href="mailto:hamza@devzona.com"><img src="https://img.shields.io/badge/EMAIL-hamza%40devzona.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/hamza-khan22/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/HAMZA-420"><img src="https://img.shields.io/badge/GITHUB-HAMZA--420-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://www.devzona.com/portfolio"><img src="https://img.shields.io/badge/PORTFOLIO-VIEW%20WORK-0E75B6?style=flat-square&logo=safari&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=HAMZA-420&label=PROFILE+VIEWS&color=1F6FEB&style=flat-square" />
 
 </div>
 
@@ -38,14 +34,16 @@
 
 <br/><br/>
 
-<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HAMZA-420&theme=tokyonight" alt="GitHub contribution profile" />
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HAMZA-420&theme=github_dark" alt="GitHub contribution profile" />
 
 <br/>
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HAMZA-420&theme=tokyonight" alt="GitHub stats" />
-<img width="48%" src="https://streak-stats.demolab.com?user=HAMZA-420&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HAMZA-420&theme=github_dark" alt="GitHub stats" />
+<img width="48%" src="https://streak-stats.demolab.com?user=HAMZA-420&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub streak" />
 
 </div>
+
+---
 
 ---
 
@@ -144,8 +142,8 @@ flowchart LR
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>🧠 <a href="https://evala.ai/">Evala.ai</a></h3><b>AI Venture Intelligence</b><br/>Pitch-deck analysis, scoring and AI-assisted decision workflows.</td>
-<td width="33%" valign="top"><h3>✦ <a href="https://www.pitchperfecter.ai/">PitchPerfecter.ai</a></h3><b>Generative AI</b><br/>Document intelligence and founder-facing AI analysis workflows.</td>
+<td width="33%" valign="top"><h3>🧠 <a href="https://www.devzona.com/portfolio/evala-ai-1">Evala.ai</a></h3><b>AI Venture Intelligence</b><br/>Pitch-deck analysis, scoring and AI-assisted decision workflows.</td>
+<td width="33%" valign="top"><h3>✦ <a href="https://www.devzona.com/portfolio/pitchperfecter-ai-2">PitchPerfecter.ai</a></h3><b>Generative AI</b><br/>Document intelligence and founder-facing AI analysis workflows.</td>
 <td width="33%" valign="top"><h3>🔐 <a href="https://www.privacybot.com/">PrivacyBot</a></h3><b>AI Privacy SaaS</b><br/>Automation-oriented privacy and data-removal workflows.</td>
 </tr>
 <tr>
