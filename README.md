@@ -2,23 +2,29 @@
 
 # PhD in AI & Autonomous Systems
 
-<h1>PhD Researcher x Software Engineer x 6 year Experience</h1>
+<h1>PhD Researcher × AI Engineer × Software Engineer</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=950&lines=Agentic+AI+%E2%80%A2+Multi-Agent+Systems+%E2%80%A2+Autonomous+Intelligence;Vision-Language+Systems+%E2%80%A2+Robotics+%E2%80%A2+Applied+AI+Research;Research+%E2%86%92+Architecture+%E2%86%92+Production+%E2%86%92+Evaluation" alt="Research focus animation" />
+<h3>6+ Years Engineering Experience · Research to Production</h3>
 
-<br/>
-
-<a href="https://seecs.nust.edu.pk/"><img src="https://img.shields.io/badge/PhD-AI%20%26%20Autonomous%20Systems-7C3AED?style=for-the-badge&logoColor=white" /></a>
-<a href="https://www.devzona.com/"><img src="https://img.shields.io/badge/Founder%20%26%20CEO-DEVZONA-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://evolvion.io/"><img src="https://img.shields.io/badge/Co--Founder-Evolvion.io-1F6FEB?style=for-the-badge&logoColor=white" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=650&color=22D3EE&center=true&vCenter=true&width=950&lines=Agentic+AI+%E2%80%A2+Multi-Agent+Systems+%E2%80%A2+Autonomous+Intelligence;Vision-Language+Systems+%E2%80%A2+Robotics+%E2%80%A2+Applied+AI+Research;Research+%E2%86%92+Architecture+%E2%86%92+Production+%E2%86%92+Evaluation" alt="Research focus animation" />
 
 <br/><br/>
 
-<a href="mailto:hamza@devzona.com"><img src="https://img.shields.io/badge/EMAIL-hamza%40devzona.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/hamza-khan22/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/HAMZA-420"><img src="https://img.shields.io/badge/GITHUB-HAMZA--420-181717?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="https://www.devzona.com/portfolio"><img src="https://img.shields.io/badge/PORTFOLIO-VIEW%20WORK-0E75B6?style=flat-square&logo=safari&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=HAMZA-420&label=PROFILE+VIEWS&color=1F6FEB&style=flat-square" />
+<!-- MODERN 3D ROLE + ACTION BUTTONS (custom SVG assets) -->
+<a href="https://seecs.nust.edu.pk/"><img height="52" src="./assets/profile-buttons/phd.svg" alt="PhD Researcher — AI & Autonomous Systems" /></a>
+<a href="https://www.devzona.com/"><img height="52" src="./assets/profile-buttons/devzona.svg" alt="Founder & CEO — DEVZONA" /></a>
+<a href="https://evolvion.io/"><img height="52" src="./assets/profile-buttons/evolvion.svg" alt="Co-Founder — Evolvion.io" /></a>
+
+<br/><br/>
+
+<a href="mailto:hamza@devzona.com"><img height="52" src="./assets/profile-buttons/email.svg" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/hamza-khan22/"><img height="52" src="./assets/profile-buttons/linkedin.svg" alt="LinkedIn" /></a>
+<a href="https://github.com/HAMZA-420"><img height="52" src="./assets/profile-buttons/github.svg" alt="GitHub" /></a>
+<a href="https://www.devzona.com/portfolio"><img height="52" src="./assets/profile-buttons/portfolio.svg" alt="Portfolio" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=HAMZA-420&label=PROFILE+VIEWS&color=4F46E5&style=for-the-badge" />
 
 </div>
 
@@ -32,12 +38,12 @@
 
 <br/><br/>
 
-<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HAMZA-420&theme=github_dark" alt="GitHub contribution profile" />
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HAMZA-420&theme=tokyonight" alt="GitHub contribution profile" />
 
 <br/>
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HAMZA-420&theme=github_dark" alt="GitHub stats" />
-<img width="48%" src="https://streak-stats.demolab.com?user=HAMZA-420&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub streak" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HAMZA-420&theme=tokyonight" alt="GitHub stats" />
+<img width="48%" src="https://streak-stats.demolab.com?user=HAMZA-420&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
@@ -71,7 +77,7 @@ Engineering intelligent products from <b>architecture and APIs</b> to <b>mobile/
 
 # ◉ AGENTIC INTELLIGENCE
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=1900&pause=450&color=7C3AED&center=true&vCenter=true&width=950&lines=GOAL+%E2%86%92+PLAN+%E2%86%92+RETRIEVE+%E2%86%92+ACT+%E2%86%92+OBSERVE+%E2%86%92+REFLECT;ROUTER+%E2%86%92+SPECIALIST+AGENTS+%E2%86%92+TOOLS+%E2%86%92+EVALUATOR+%E2%86%92+MEMORY;REASON+%E2%86%92+ACT+%E2%86%92+EVALUATE+%E2%86%92+ADAPT" alt="Agentic loop animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=1800&pause=420&color=A78BFA&center=true&vCenter=true&width=950&lines=GOAL+%E2%86%92+PLAN+%E2%86%92+RETRIEVE+%E2%86%92+ACT+%E2%86%92+OBSERVE+%E2%86%92+REFLECT;ROUTER+%E2%86%92+SPECIALIST+AGENTS+%E2%86%92+TOOLS+%E2%86%92+EVALUATOR+%E2%86%92+MEMORY;REASON+%E2%86%92+ACT+%E2%86%92+EVALUATE+%E2%86%92+ADAPT" alt="Agentic loop animation" />
 
 </div>
 
@@ -90,13 +96,37 @@ flowchart LR
     X --> D[Production System]
     D --> E[Telemetry / Evaluation]
     E -. feedback .-> P
+
+    classDef input fill:#0F172A,stroke:#22D3EE,color:#E2E8F0,stroke-width:2px;
+    classDef brain fill:#1E1B4B,stroke:#818CF8,color:#F8FAFC,stroke-width:2px;
+    classDef agent fill:#2E1065,stroke:#A78BFA,color:#F8FAFC,stroke-width:2px;
+    classDef memory fill:#164E63,stroke:#67E8F9,color:#F8FAFC,stroke-width:2px;
+    classDef action fill:#052E16,stroke:#34D399,color:#ECFDF5,stroke-width:2px;
+    classDef eval fill:#3F1D2E,stroke:#F472B6,color:#FDF2F8,stroke-width:2px;
+
+    class G input;
+    class P,K brain;
+    class A,T agent;
+    class O,M memory;
+    class X,D action;
+    class V,E eval;
 ```
 
 <div align="center">
 
-<b>Tool Use</b> · <b>Function Calling</b> · <b>RAG</b> · <b>Memory</b> · <b>Planning</b> · <b>Agent Handoffs</b> · <b>Reflection</b> · <b>Guardrails</b>
+<img src="https://img.shields.io/badge/TOOL%20USE-AGENT%20CAPABILITY-0F172A?style=for-the-badge&labelColor=1E293B" />
+<img src="https://img.shields.io/badge/FUNCTION%20CALLING-STRUCTURED%20ACTION-0F172A?style=for-the-badge&labelColor=1E293B" />
+<img src="https://img.shields.io/badge/RAG-GROUNDED%20CONTEXT-0F172A?style=for-the-badge&labelColor=1E293B" />
+<img src="https://img.shields.io/badge/MEMORY-LONG%20%2B%20SHORT%20TERM-0F172A?style=for-the-badge&labelColor=1E293B" />
 
 <br/>
+
+<img src="https://img.shields.io/badge/PLANNING-ORCHESTRATION-0F172A?style=for-the-badge&labelColor=312E81" />
+<img src="https://img.shields.io/badge/AGENT%20HANDOFFS-MULTI--AGENT-0F172A?style=for-the-badge&labelColor=4C1D95" />
+<img src="https://img.shields.io/badge/REFLECTION-EVALUATION-0F172A?style=for-the-badge&labelColor=831843" />
+<img src="https://img.shields.io/badge/GUARDRAILS-RELIABILITY-0F172A?style=for-the-badge&labelColor=065F46" />
+
+<br/><br/>
 
 <code>AI Research</code> → <code>Reasoning</code> → <code>Autonomy</code> → <code>Software Systems</code> → <code>Production</code> → <code>Evaluation</code>
 
@@ -131,23 +161,25 @@ flowchart LR
 
 # 🧬 CORE TECHNOLOGY
 
-<img src="https://img.shields.io/badge/Python-AI%20%26%20Systems-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-LLM%20Systems-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-AI%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/PYTHON-AI%20%26%20SYSTEMS-0F172A?style=for-the-badge&labelColor=1E293B&logo=python&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/PYTORCH-DEEP%20LEARNING-0F172A?style=for-the-badge&labelColor=1E293B&logo=pytorch&logoColor=FB7185" />
+<img src="https://img.shields.io/badge/OPENAI-LLM%20SYSTEMS-0F172A?style=for-the-badge&labelColor=1E293B&logo=openai&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/FASTAPI-AI%20APIs-0F172A?style=for-the-badge&labelColor=1E293B&logo=fastapi&logoColor=34D399" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/TypeScript-Production%20Engineering-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-Native%20%2B%20Web-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/AWS-Cloud%20Systems-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-Production-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/TYPESCRIPT-PRODUCTION%20ENGINEERING-0F172A?style=for-the-badge&labelColor=1E293B&logo=typescript&logoColor=60A5FA" />
+<img src="https://img.shields.io/badge/REACT-NATIVE%20%2B%20WEB-0F172A?style=for-the-badge&labelColor=1E293B&logo=react&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/AWS-CLOUD%20SYSTEMS-0F172A?style=for-the-badge&labelColor=1E293B&logo=amazonaws&logoColor=FBBF24" />
+<img src="https://img.shields.io/badge/DOCKER-PRODUCTION-0F172A?style=for-the-badge&labelColor=1E293B&logo=docker&logoColor=38BDF8" />
 
 <br/><br/>
 
 ### **Building intelligent systems that move from research ideas to production reality.**
 
-<a href="mailto:hamza@devzona.com"><img src="https://img.shields.io/badge/LET'S%20CONNECT-hamza%40devzona.com-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.devzona.com/portfolio"><img src="https://img.shields.io/badge/EXPLORE-PORTFOLIO-7C3AED?style=for-the-badge&logo=safari&logoColor=white" /></a>
+<br/>
+
+<a href="mailto:hamza@devzona.com"><img height="52" src="./assets/profile-buttons/connect.svg" alt="Let's Connect" /></a>
+<a href="https://www.devzona.com/portfolio"><img height="52" src="./assets/profile-buttons/explore.svg" alt="Explore Portfolio" /></a>
 
 </div>
