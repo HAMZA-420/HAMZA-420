@@ -56,7 +56,7 @@ AI research at the intersection of <b>agentic systems, autonomous decision-makin
 </td>
 <td width="50%" valign="top">
 <h2>⚙️ ENGINEERING</h2>
-<b>5+ years · 100+ production projects</b><br/><br/>
+<b>6+ years · 100+ production projects</b><br/><br/>
 Engineering intelligent products from <b>architecture and APIs</b> to <b>mobile/web, cloud infrastructure, deployment and observability</b>.<br/><br/>
 <code>Python</code> · <code>TypeScript</code> · <code>FastAPI</code> · <code>Node.js</code><br/>
 <code>React</code> · <code>Next.js</code> · <code>React Native</code><br/>
