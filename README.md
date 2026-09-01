@@ -25,54 +25,6 @@
 </div>
 
 ---
-
-<div align="center">
-
-# ⚡ GITHUB ENGINEERING ACTIVITY
-
-<sub>Production engineering · research code · AI systems · continuous building</sub>
-
-<br/><br/>
-
-<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HAMZA-420&theme=github_dark" alt="GitHub contribution profile" />
-
-<br/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HAMZA-420&theme=github_dark" alt="GitHub stats" />
-<img width="48%" src="https://streak-stats.demolab.com?user=HAMZA-420&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub streak" />
-
-</div>
-
----
-
----
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<h2>🧠 RESEARCH</h2>
-<b>PhD — AI & Autonomous Systems</b><br/>
-<b>SEECS · NUST</b><br/><br/>
-AI research at the intersection of <b>agentic systems, autonomous decision-making, multimodal intelligence and robotics</b>.<br/><br/>
-<code>Multi-Agent Systems</code> · <code>VLMs</code> · <code>Autonomy</code><br/>
-<code>Planning</code> · <code>Reasoning</code> · <code>Evaluation</code><br/>
-<code>Robotics</code> · <code>Human-in-the-Loop</code>
-</td>
-<td width="50%" valign="top">
-<h2>⚙️ ENGINEERING</h2>
-<b>6+ years · 100+ production projects</b><br/><br/>
-Engineering intelligent products from <b>architecture and APIs</b> to <b>mobile/web, cloud infrastructure, deployment and observability</b>.<br/><br/>
-<code>Python</code> · <code>TypeScript</code> · <code>FastAPI</code> · <code>Node.js</code><br/>
-<code>React</code> · <code>Next.js</code> · <code>React Native</code><br/>
-<code>MongoDB</code> · <code>PostgreSQL</code> · <code>AWS</code> · <code>Docker</code>
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
 # ◉ AGENTIC INTELLIGENCE
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=1800&pause=420&color=A78BFA&center=true&vCenter=true&width=950&lines=GOAL+%E2%86%92+PLAN+%E2%86%92+RETRIEVE+%E2%86%92+ACT+%E2%86%92+OBSERVE+%E2%86%92+REFLECT;ROUTER+%E2%86%92+SPECIALIST+AGENTS+%E2%86%92+TOOLS+%E2%86%92+EVALUATOR+%E2%86%92+MEMORY;REASON+%E2%86%92+ACT+%E2%86%92+EVALUATE+%E2%86%92+ADAPT" alt="Agentic loop animation" />
@@ -109,6 +61,31 @@ flowchart LR
     class X,D action;
     class V,E eval;
 ```
+---
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h2>🧠 RESEARCH</h2>
+<b>PhD — AI & Autonomous Systems</b><br/>
+<b>SEECS · NUST</b><br/><br/>
+AI research at the intersection of <b>agentic systems, autonomous decision-making, multimodal intelligence and robotics</b>.<br/><br/>
+<code>Multi-Agent Systems</code> · <code>VLMs</code> · <code>Autonomy</code><br/>
+<code>Planning</code> · <code>Reasoning</code> · <code>Evaluation</code><br/>
+<code>Robotics</code> · <code>Human-in-the-Loop</code>
+</td>
+<td width="50%" valign="top">
+<h2>⚙️ ENGINEERING</h2>
+<b>6+ years · 100+ production projects</b><br/><br/>
+Engineering intelligent products from <b>architecture and APIs</b> to <b>mobile/web, cloud infrastructure, deployment and observability</b>.<br/><br/>
+<code>Python</code> · <code>TypeScript</code> · <code>FastAPI</code> · <code>Node.js</code><br/>
+<code>React</code> · <code>Next.js</code> · <code>React Native</code><br/>
+<code>MongoDB</code> · <code>PostgreSQL</code> · <code>AWS</code> · <code>Docker</code>
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
 
@@ -129,6 +106,30 @@ flowchart LR
 <code>AI Research</code> → <code>Reasoning</code> → <code>Autonomy</code> → <code>Software Systems</code> → <code>Production</code> → <code>Evaluation</code>
 
 </div>
+
+---
+
+<div align="center">
+
+# ⚡ GITHUB ENGINEERING ACTIVITY
+
+<sub>Production engineering · research code · AI systems · continuous building</sub>
+
+<br/><br/>
+
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HAMZA-420&theme=github_dark" alt="GitHub contribution profile" />
+
+<br/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HAMZA-420&theme=github_dark" alt="GitHub stats" />
+<img width="48%" src="https://streak-stats.demolab.com?user=HAMZA-420&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub streak" />
+
+</div>
+
+---
+---
+
+<div align="center">
 
 ---
 
