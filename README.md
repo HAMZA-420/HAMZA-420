@@ -1,8 +1,8 @@
 <div align="center">
 
-# MUHAMMAD HAMZA KHAN
+# PhD Researcher in AI & Autonomous Systems
 
-<h1>PhD Researcher in AI & Autonomous Systems x Software Engineer</h1>
+<h1>PhD Researcher x Software Engineer x 6 year Experience</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=950&lines=Agentic+AI+%E2%80%A2+Multi-Agent+Systems+%E2%80%A2+Autonomous+Intelligence;Vision-Language+Systems+%E2%80%A2+Robotics+%E2%80%A2+Applied+AI+Research;Research+%E2%86%92+Architecture+%E2%86%92+Production+%E2%86%92+Evaluation" alt="Research focus animation" />
 
