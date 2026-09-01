@@ -1,121 +1,153 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:0E75B6,70:7B2CBF,100:00C2FF&height=245&section=header&text=Muhammad%20Hamza%20Khan&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=PhD%20Researcher%20%E2%80%A2%20AI%20%26%20Autonomous%20Systems%20%E2%80%A2%20Software%20Engineer&descAlignY=55&descSize=18" />
+# MUHAMMAD HAMZA KHAN
 
-# ⚡ AI RESEARCHER × SOFTWARE ENGINEER
+<h3>PhD Researcher in AI & Autonomous Systems · AI Researcher · Software Engineer</h3>
 
-### **PhD Researcher in AI & Autonomous Systems @ SEECS, NUST**
-### **Founder @ DevZona • Co-Founder @ Evolvion.io**
-
-<p>
-  <a href="mailto:hamza@devzona.com"><img src="https://img.shields.io/badge/Email-hamza%40devzona.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/hamza-khan22/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/HAMZA-420"><img src="https://img.shields.io/badge/GitHub-HAMZA--420-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.devzona.com/portfolio"><img src="https://img.shields.io/badge/Portfolio-DevZona-0E75B6?style=for-the-badge&logo=safari&logoColor=white" /></a>
-</p>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=850&color=58A6FF&center=true&vCenter=true&width=1000&lines=Agentic+AI+%E2%86%92+Multi-Agent+Systems+%E2%86%92+Autonomy;Vision-Language+%E2%86%92+Reasoning+%E2%86%92+Tool+Use;Research+Ideas+%E2%86%92+Production-Grade+AI+Systems;Web+%2B+Mobile+%2B+Cloud+%E2%86%92+Real-World+Products" />
-
-</div>
-
----
-
-# 📊 GitHub Engineering Activity
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HAMZA-420&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github" />
-  <img height="165" src="https://streak-stats.demolab.com?user=HAMZA-420&theme=tokyonight&hide_border=true&background=0D1117" />
-  <br/>
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=HAMZA-420&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
----
-
-# 🧠 RESEARCH × ENGINEERING
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=700&color=7B61FF&center=true&vCenter=true&width=950&lines=%F0%9F%A4%96+AGENTS+%7C+Planning+%E2%80%A2+Memory+%E2%80%A2+Tools+%E2%80%A2+Reflection;%F0%9F%A7%A0+MULTI-AGENT+SYSTEMS+%7C+Routing+%E2%80%A2+Orchestration+%E2%80%A2+Evaluation;%F0%9F%91%81%EF%B8%8F+MULTIMODAL+AI+%7C+Vision+%E2%80%A2+Language+%E2%80%A2+Reasoning;%E2%9A%99%EF%B8%8F+AUTONOMOUS+SYSTEMS+%7C+Decision+%E2%80%A2+Action+%E2%80%A2+Control" />
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## 🔬 Research
-
-**Agentic AI** · **Multi-Agent Systems** · **Autonomous Systems** · **Vision-Language / Multimodal AI** · **Robotics & Intelligent Agents** · **AI Evaluation**
-
-</td>
-<td width="50%" valign="top">
-
-## ⚙️ Engineering
-
-**Full-Stack Systems** · **AI-Native Products** · **Distributed Backends** · **React / Next.js / React Native** · **AWS / Docker / CI/CD** · **Multi-Tenant SaaS**
-
-</td>
-</tr>
-</table>
-
-> **I work at the intersection of AI research and production engineering — building systems that can reason, use tools, coordinate, act autonomously, and survive real-world deployment.**
-
----
-
-# 🚀 SELECTED SYSTEMS
-
-<table>
-<tr>
-<td width="25%" align="center"><b><a href="https://evala.ai/">Evala.ai</a></b><br/><sub>AI intelligence & evaluation</sub></td>
-<td width="25%" align="center"><b><a href="https://safegram.com/">Safegram</a></b><br/><sub>Production social platform</sub></td>
-<td width="25%" align="center"><b><a href="https://www.fuelclubs.com/">Fuel Clubs</a></b><br/><sub>On-demand logistics platform</sub></td>
-<td width="25%" align="center"><b><a href="https://www.privacybot.com/">PrivacyBot</a></b><br/><sub>AI privacy automation</sub></td>
-</tr>
-</table>
-
-<div align="center">
-
-### **100+ Software Projects • 5+ Years Engineering • Research → Architecture → Production**
-
-<a href="https://www.devzona.com/portfolio"><img src="https://img.shields.io/badge/Explore%20Selected%20Work-devzona.com%2Fportfolio-0E75B6?style=for-the-badge&logo=safari&logoColor=white" /></a>
-
-</div>
-
----
-
-# 🛠️ AI + SOFTWARE STACK
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,ts,js,pytorch,tensorflow,opencv,nodejs,fastapi,express,react,nextjs,mongodb,postgres,redis,aws,docker,linux,git,githubactions&perline=10" />
-
-<br/><br/>
-
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-Systems-7B2CBF?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-Retrieval%20%2B%20Grounding-0E75B6?style=for-the-badge)
-![Multi Agent](https://img.shields.io/badge/Multi--Agent-Orchestration-111827?style=for-the-badge)
-![Cloud](https://img.shields.io/badge/Cloud-Production%20Engineering-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-</div>
-
----
-
-# 🎓 ACADEMIC PATH
-
-<div align="center">
-
-### **PhD — AI & Autonomous Systems** · SEECS, NUST  
-### **MS — Software Engineering** · NUST &nbsp; | &nbsp; **BS — Software Engineering** · COMSATS
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=950&lines=Agentic+AI+%E2%80%A2+Multi-Agent+Systems+%E2%80%A2+Autonomous+Intelligence;Vision-Language+Systems+%E2%80%A2+Robotics+%E2%80%A2+Applied+AI+Research;Research+%E2%86%92+Architecture+%E2%86%92+Production+%E2%86%92+Evaluation" alt="Research focus animation" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Research.+Engineer.+Build.+Evaluate.+Deploy.;Intelligent+Systems+that+Reason+%E2%80%A2+Act+%E2%80%A2+Scale." />
+<a href="https://seecs.nust.edu.pk/"><img src="https://img.shields.io/badge/PhD-AI%20%26%20Autonomous%20Systems-7C3AED?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.devzona.com/"><img src="https://img.shields.io/badge/Founder%20%26%20CEO-DEVZONA-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://evolvion.io/"><img src="https://img.shields.io/badge/Co--Founder-Evolvion.io-1F6FEB?style=for-the-badge&logoColor=white" /></a>
 
-### **Building intelligent systems that can reason, act, and scale.**
+<br/><br/>
 
-<a href="mailto:hamza@devzona.com"><img src="https://img.shields.io/badge/Research%20%2F%20Engineering-Collaborate-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/hamza-khan22/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:hamza@devzona.com"><img src="https://img.shields.io/badge/EMAIL-hamza%40devzona.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/hamza-khan22/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/HAMZA-420"><img src="https://img.shields.io/badge/GITHUB-HAMZA--420-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://www.devzona.com/portfolio"><img src="https://img.shields.io/badge/PORTFOLIO-VIEW%20WORK-0E75B6?style=flat-square&logo=safari&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=HAMZA-420&label=PROFILE+VIEWS&color=1F6FEB&style=flat-square" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,50:0E75B6,100:0D1117&height=105&section=footer" />
+</div>
+
+---
+
+<div align="center">
+
+# ⚡ GITHUB ENGINEERING ACTIVITY
+
+<sub>Production engineering · research code · AI systems · continuous building</sub>
+
+<br/><br/>
+
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HAMZA-420&theme=github_dark" alt="GitHub contribution profile" />
+
+<br/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HAMZA-420&theme=github_dark" alt="GitHub stats" />
+<img width="48%" src="https://streak-stats.demolab.com?user=HAMZA-420&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub streak" />
+
+</div>
+
+---
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h2>🧠 RESEARCH</h2>
+<b>PhD — AI & Autonomous Systems</b><br/>
+<b>SEECS · NUST</b><br/><br/>
+AI research at the intersection of <b>agentic systems, autonomous decision-making, multimodal intelligence and robotics</b>.<br/><br/>
+<code>Multi-Agent Systems</code> · <code>VLMs</code> · <code>Autonomy</code><br/>
+<code>Planning</code> · <code>Reasoning</code> · <code>Evaluation</code><br/>
+<code>Robotics</code> · <code>Human-in-the-Loop</code>
+</td>
+<td width="50%" valign="top">
+<h2>⚙️ ENGINEERING</h2>
+<b>5+ years · 100+ production projects</b><br/><br/>
+Engineering intelligent products from <b>architecture and APIs</b> to <b>mobile/web, cloud infrastructure, deployment and observability</b>.<br/><br/>
+<code>Python</code> · <code>TypeScript</code> · <code>FastAPI</code> · <code>Node.js</code><br/>
+<code>React</code> · <code>Next.js</code> · <code>React Native</code><br/>
+<code>MongoDB</code> · <code>PostgreSQL</code> · <code>AWS</code> · <code>Docker</code>
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# ◉ AGENTIC INTELLIGENCE
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=1900&pause=450&color=7C3AED&center=true&vCenter=true&width=950&lines=GOAL+%E2%86%92+PLAN+%E2%86%92+RETRIEVE+%E2%86%92+ACT+%E2%86%92+OBSERVE+%E2%86%92+REFLECT;ROUTER+%E2%86%92+SPECIALIST+AGENTS+%E2%86%92+TOOLS+%E2%86%92+EVALUATOR+%E2%86%92+MEMORY;REASON+%E2%86%92+ACT+%E2%86%92+EVALUATE+%E2%86%92+ADAPT" alt="Agentic loop animation" />
+
+</div>
+
+```mermaid
+flowchart LR
+    G((Goal)) --> P[Planner / Router]
+    P --> K[Context / RAG]
+    P --> A[Specialist Agents]
+    K --> A
+    A --> T[Tools / APIs]
+    T --> O[Observation]
+    O --> M[(Memory)]
+    M --> V[Evaluator / Critic]
+    V -->|refine| P
+    V -->|validated| X[Autonomous Action]
+    X --> D[Production System]
+    D --> E[Telemetry / Evaluation]
+    E -. feedback .-> P
+```
+
+<div align="center">
+
+<b>Tool Use</b> · <b>Function Calling</b> · <b>RAG</b> · <b>Memory</b> · <b>Planning</b> · <b>Agent Handoffs</b> · <b>Reflection</b> · <b>Guardrails</b>
+
+<br/>
+
+<code>AI Research</code> → <code>Reasoning</code> → <code>Autonomy</code> → <code>Software Systems</code> → <code>Production</code> → <code>Evaluation</code>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🚀 SELECTED SYSTEMS
+
+<sub>Representative production work · <a href="https://www.devzona.com/portfolio">Explore full DevZona portfolio →</a></sub>
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>🧠 <a href="https://evala.ai/">Evala.ai</a></h3><b>AI Venture Intelligence</b><br/>Pitch-deck analysis, scoring and AI-assisted decision workflows.</td>
+<td width="33%" valign="top"><h3>✦ <a href="https://www.pitchperfecter.ai/">PitchPerfecter.ai</a></h3><b>Generative AI</b><br/>Document intelligence and founder-facing AI analysis workflows.</td>
+<td width="33%" valign="top"><h3>🔐 <a href="https://www.privacybot.com/">PrivacyBot</a></h3><b>AI Privacy SaaS</b><br/>Automation-oriented privacy and data-removal workflows.</td>
+</tr>
+<tr>
+<td width="33%" valign="top"><h3>📱 <a href="https://safegram.com/">Safegram</a></h3><b>Mobile Social Platform</b><br/>Real-time product, privacy systems and backend architecture.</td>
+<td width="33%" valign="top"><h3>⛽ <a href="https://www.fuelclubs.com/">Fuel Clubs</a></h3><b>Logistics Platform</b><br/>Customer, operational and backend systems for fuel delivery.</td>
+<td width="33%" valign="top"><h3>🤝 <a href="https://www.joinmentr.com/">Mentr</a></h3><b>Matching SaaS</b><br/>Mentor–mentee matching and organizational workflows.</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 🧬 CORE TECHNOLOGY
+
+<img src="https://img.shields.io/badge/Python-AI%20%26%20Systems-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-LLM%20Systems-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-AI%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/TypeScript-Production%20Engineering-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-Native%20%2B%20Web-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/AWS-Cloud%20Systems-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-Production-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+<br/><br/>
+
+### **Building intelligent systems that move from research ideas to production reality.**
+
+<a href="mailto:hamza@devzona.com"><img src="https://img.shields.io/badge/LET'S%20CONNECT-hamza%40devzona.com-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.devzona.com/portfolio"><img src="https://img.shields.io/badge/EXPLORE-PORTFOLIO-7C3AED?style=for-the-badge&logo=safari&logoColor=white" /></a>
 
 </div>
