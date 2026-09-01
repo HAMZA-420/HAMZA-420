@@ -1,6 +1,6 @@
 <div align="center">
 
-# PhD Researcher in AI & Autonomous Systems
+# PhD in AI & Autonomous Systems
 
 <h1>PhD Researcher x Software Engineer x 6 year Experience</h1>
 
